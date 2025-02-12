@@ -1,0 +1,11 @@
+print(type(2))           # int
+print(type(2.3))         # float
+print(type(False))       # bool
+print(type(None))        # NoneType
+print(type(4*2))         # int
+print(type(4/2))         # float
+print(type(3.0*1.0))     # float
+print(type(~3))          # int
+print(type(3|2))       # int
+print(type(3|2.0))     # float
+print(type(print("xx"))) # NoneType 
